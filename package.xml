@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.mendix.com/package/1.0/">
+  <modelerProject xmlns="http://www.mendix.com/modelerProject/1.0/">
+    <module name="IBANValidation" />
+    <projectFile path="project.mpr" />
+    <files>
+      <file path="javasource\ibanvalidation\actions\TestIbanNumber.java" />
+      <file path="themesource\ibanvalidation\settings.json" />
+      <file path="themesource\ibanvalidation\native\design-properties.json" />
+      <file path="themesource\ibanvalidation\native\main.js" />
+      <file path="themesource\ibanvalidation\web\design-properties.json" />
+      <file path="themesource\ibanvalidation\web\main.scss" />
+    </files>
+  </modelerProject>
+</package>
